@@ -17,21 +17,21 @@ global.APIKeys = {
 }
 
 //Owner React
-global.OWNER_REACT = '🧑🏻‍💻' //මෙතනට emoji එකක දාන්න.
-global.REACT_NUMBER = '9476342733' //මෙතන number එක.
+global.OWNER_REACT = '👻' //මෙතනට emoji එකක දාන්න.
+global.REACT_NUMBER = '94759178984' //මෙතන number එක.
 
 // Other
-global.owner = ['9476342733',''] //මෙතන number එක.
-global.premium = ['9476342733','9476342733'] //මෙතන number එක.
-global.botname = 'VIHANGA BOT INC' //මෙතන නම.
-global.ownername = 'Vihanga MD' //මෙතන නම.
-global.ownername = 'ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ' //මෙතන නම.
-global.group1 = 'https://chat.whatsapp.com/GTJmlChJZkoBhHVsENgc3Z' //මෙතන grouplink එක.
-global.group2 = 'https://chat.whatsapp.com/GTJmlChJZkoBhHVsENgc3Z' //මෙතන grouplink එක.
-global.packname = 'VIHANGA BOT INC' //මෙතන නම.
-global.cap = '*By Vihanga MD*' //මෙතන නම.
-global.img = 'https://telegra.ph/file/88d6fdeff08bbc4945901.jpg' //මෙතන බොට්ගෙ photo එකට ඕන derect link එකක්.
-global.ytchannel = 'https://youtu.be/Z9rIR0Vopb8' //මෙතන කැමති ලින්ක් එකක්.
+global.owner = ['94759178984',''] //මෙතන number එක.
+global.premium = ['94759178984','94759178984'] //මෙතන number එක.
+global.botname = 'SLRDX BOT INC' //මෙතන නම.
+global.ownername = 'Slrdx MD' //මෙතන නම.
+global.ownername = '꧁SL R※Ɗ๏๏ɳnefixes】' //මෙතන නම.
+global.group1 = 'https://chat.whatsapp.com/CSLansalKk41d3RxDCHxO9' //මෙතන grouplink එක.
+global.group2 = 'https://chat.whatsapp.com/Cwtw980mqrc62aiB23miqf' //මෙතන grouplink එක.
+global.packname = 'SLRDX BOT INC' //මෙතන නම.
+global.cap = '*By Slrdx MD*' //මෙතන නම.
+global.img = 'https://i.ibb.co/7NGYmSN/IMG-20220822-WA0024.jpg' //මෙතන බොට්ගෙ photo එකට ඕන derect link එකක්.
+global.ytchannel = '1https://youtu.be/Vno-JGwzJPs' //මෙතන කැමති ලින්ක් එකක්.
 global.monayawal = '100000' //මෙතන මාරු කරන්න එපා.
 global.darahawal = '100' //මෙතන මාරු කරන්න එපා.
 global.besiAwal = '15' //මෙතන මාරු කරන්න එපා.
